@@ -2,8 +2,7 @@
 
 # Selected Pull Request
 
-## Repository
-beets
+## Repository : beets
 
 ## PR Link
 https://github.com/beetbox/beets/pull/3478
