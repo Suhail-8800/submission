@@ -2,8 +2,7 @@
 
 # PR 1 - Implement parallel replaygain analysis
 
-## Repository
-beets
+## Repository : beets
 
 ## PR Link
 https://github.com/beetbox/beets/pull/3478
@@ -49,8 +48,7 @@ The changes also introduce new concurrency considerations related to thread sync
 
 # PR 2 - Add plugin for Fish shell tab completion
 
-## Repository
-beets
+## Repository : beets
 
 ## PR Link
 https://github.com/beetbox/beets/pull/3509
